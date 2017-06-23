@@ -3,6 +3,9 @@
   "description": "Plugin that adds 'Activate account' permissions so that non-admins can activate users.",
   "type": "craft-plugin",
   "license": "MIT",
+  "extra": {
+    "handle": "activateusers"
+  },
   "authors": [
     {
       "name": "Billy Fagan",
